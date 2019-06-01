@@ -50,17 +50,7 @@
 	<img src="./images/jks13.jpg" width="150px" height="180px" >
 	<img src="./images/jks14.jpg" width="150px" height="180px" >
 	</div>
-	<h2>VIDEO GALLERY </h2>
-	<div id="slide">
-	<video src="./videos/jks1.mp4" width="250px" height="200px" loop controls></video>
-	<video src="./videos/jks2.mp4" width="250px" height="200px" loop controls></video>
-	<video src="./videos/jks3.mp4" width="250px" height="200px" loop controls></video>
-	<video src="./videos/jks4.mp4" width="250px" height="200px" loop controls></video><br/>
-	<video src="./videos/jks5.mp4" width="250px" height="200px" loop controls></video>
-	<video src="./videos/jks6.mp4" width="250px" height="200px" loop controls></video>
-	<video src="./videos/jks7.mp4" width="250px" height="200px" loop controls></video>
-	<video src="./videos/jks8.mp4" width="250px" height="200px" loop controls></video>
-	</div>
+	
 <div id="footer">
 @copy; 2014 jagdishsuthar.com. All rights here.
 	<ul>
